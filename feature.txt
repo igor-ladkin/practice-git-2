@@ -1,3 +1,4 @@
 Testing VS Code GitHub integration
 Multiline stuff
 Line 1
+Line 2
